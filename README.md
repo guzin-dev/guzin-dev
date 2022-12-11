@@ -1,7 +1,7 @@
 ## About me ⭐ 
 - 🤓 I'm **Seventeen**
 - 🔭 I’m currently working on **Intelbras**
-- 🌱 I’m currently learning **Javascript, Html and CSS**
+- 🌱 I’m currently learning **React JS, Javascript, Html and CSS**
 - 📚 I have some experience in **Java**
 
 
