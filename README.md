@@ -1,8 +1,7 @@
 ## About me ⭐ 
 - 🤓 I'm **Seventeen**
-- 🔭 I’m currently working on **Intelbras**
-- 🌱 I’m currently learning **React JS, Javascript, Html and CSS**
-- 📚 I have some experience in **Java**
+- 🔭 I’m currently working on **Opens Tecnologia** as a front-end developer
+- 🌱 I’m currently learning **Vue JS, Javascript, Html and CSS**
 
 
 ## Skills
