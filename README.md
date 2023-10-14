@@ -4,7 +4,6 @@
 - 🌱 I’m currently learning **Vue JS, Next JS, Typescript, Tailwind, Javascript, Html and CSS**
 
 ## Projects list 🤓 
-- 🎧 http://opens.com.br - R$.../MRR
 - ✈️ http://viajometro.vercel.app - in progress 🏗️
 - 🥓 http://hubrecipe.com - in progress 🏗️
 - 💚 http://soulheal.vercel.app - in progress 🏗️
