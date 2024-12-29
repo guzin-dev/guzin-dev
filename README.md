@@ -4,11 +4,8 @@
 - 🌱 I’m currently learning **Vue JS, Next JS, Typescript, Tailwind, Javascript, Html and CSS**
 
 ## Projects list 🤓 
-- ✈️ http://viajometro.vercel.app - in progress 🏗️
-- 🥓 http://hubrecipe.com - in progress 🏗️
-- 💚 http://soulheal.vercel.app - in progress 🏗️
-
-### Secondary projects 😝
+- ✈️ http://viajometro.vercel.app
+- 💚 http://soulheal.vercel.app
 - 🎥 https://film-chase-senai.vercel.app/
 - 🏋️ https://github.com/Academia-Sesi/AppAcademia
 - 👾 https://jogo-pokemon.vercel.app/
