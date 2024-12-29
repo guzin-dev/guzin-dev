@@ -1,5 +1,4 @@
 ## About me ⭐ 
-- 🤓 I'm **Eighteen**
 - 🔭 I’m currently working on **Opens Tecnologia** as a front-end developer
 - 🌱 I’m currently learning **Vue JS, Next JS, Typescript, Tailwind, Javascript, Html and CSS**
 
