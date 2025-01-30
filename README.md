@@ -5,12 +5,9 @@
 ## Projects list 🤓 
 - ✈️ http://viajometro.vercel.app
 - 💚 http://soulheal.vercel.app
-- 🎥 https://film-chase-senai.vercel.app/
-- 🏋️ https://github.com/Academia-Sesi/AppAcademia
 - 👾 https://jogo-pokemon.vercel.app/
-- 👾 https://tic-tac-twcx4qb9m-gustavo-gtech.vercel.app/
-- 🔢 https://guzin-dev.github.io/Calculadora/
-- 🛒 https://guzin-dev.github.io/Lista-de-Compras/
+- 🕊️ https://centrofraternidadebranca.com.br
+- 🥕 https://kerli-braga.com.br/
 
 ## Skills
 <img style="width: 40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/> <img style="width: 40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/> <img style="width: 40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/> <img style="width: 40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"> <img style="width: 40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"/> <img style="width: 40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" /> <img style="width: 40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" /> <img style="width: 40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
